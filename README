@@ -1,1 +1,8 @@
 Administration Console - Next Generation
+
+Directory Struktur:
+
+source:   Source aller Komponenten sowie Hilfetexte
+download: Download von Artefakten des AC2 Projektes
+doc:      Alle Dokumente, die nicht zum Source gehören
+
